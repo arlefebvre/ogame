@@ -1,0 +1,24 @@
+Niveau des mines du joueur JuL Cesar ( s128-fr ) le 14/03/2020 à 12:07:09 :
+
+Planète 01 : Métal 28 / Cristal 26 / Deutérium 24 / 55°C
+Planète 02 : Métal 28 / Cristal 26 / Deutérium 24 / 51°C
+Planète 03 : Métal 28 / Cristal 25 / Deutérium 24 / 71°C
+Planète 04 : Métal 21 / Cristal 18 / Deutérium 14 / 79°C
+Planète 05 : Métal 28 / Cristal 26 / Deutérium 24 / 56°C
+Planète 06 : Métal 28 / Cristal 25 / Deutérium 23 / 70°C
+Planète 07 : Métal 29 / Cristal 27 / Deutérium 24 / 53°C
+Planète 08 : Métal 29 / Cristal 26 / Deutérium 24 / 57°C
+
+Points dans les mines de métal : 103.013
+Points dans les mines de cristal : 167.282
+Points dans les mines de deut : 67.508
+Points dans les mines : 337.803
+Technologie Plasma : 9
+
+Par heure : 410.110 Métal / 193.404 Cristal / 85.291 Deutérium
+
+Par jour : 9.842.640 Métal / 4.641.696 Cristal / 2.046.984 Deutérium
+
+Par semaine : 68.898.480 Métal / 32.491.872 Cristal / 14.328.888 Deutérium
+
+Export with Infocompte v7.0.10
